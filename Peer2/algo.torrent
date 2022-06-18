@@ -1,0 +1,11 @@
+{
+    "check_sum": [
+        "afc21293af99e0cf3a2cc694d667c042"
+    ],
+    "id": "9148788dd9d1961cc951765edf79cd0b",
+    "last_piece_size": 27,
+    "name": "algo.txt",
+    "pieces": 1,
+    "tracker_ip": "192.168.0.26",
+    "tracker_port": "5555"
+}

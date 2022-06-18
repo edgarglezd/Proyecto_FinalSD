@@ -1,0 +1,14 @@
+{
+    "check_sum": [
+        "b779b87c39e75c490fb28327ce959891",
+        "977b306398ec01762c4428b61f9addfd",
+        "2afcec4a51bf70796866c4259801e9a6",
+        "625265f81f4e333a0f230db0086d4d60"
+    ],
+    "id": "225fa509342a91221f21075e4702c579",
+    "last_piece_size": 11625,
+    "name": "Peer3\\Autoevaluacionegd.pdf",
+    "pieces": 4,
+    "tracker_ip": "192.168.0.26",
+    "tracker_port": "5555"
+}
